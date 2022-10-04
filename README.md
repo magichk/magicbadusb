@@ -1,7 +1,7 @@
 ## **Magic Bad USB**
 
 ### Project description
-Magic bad USB is designed in order to create payloads for badusb in Arduino format or to Flipperzero language. This project is for educational use, we are not responsible for its misuse.
+Magic bad USB is designed in order to create payloads for badusb in Arduino format or Flipperzero language. This project is for educational use, we are not responsible for its misuse.
 
 ### Capabilities
     - Create flipperzero payloads for badusb function.
