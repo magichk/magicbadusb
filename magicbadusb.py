@@ -185,9 +185,9 @@ def generatecommand(chars):
 					print ("Keyboard.press(KP_0);")
 					print ("Keyboard.release(KP_0);")
 			if (args.save):
-				file.write("delay(1);\n")
+				file.write("delay(50);\n")
 			else:          
-				print ("delay(1);")
+				print ("delay(50);")
 		else:
 			if (args.save):
 				file.write("Keyboard.releaseAll();\n")
